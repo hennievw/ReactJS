@@ -1,0 +1,4 @@
+**/bin
+**/obj
+/api/wwwroot
+**/node_modules

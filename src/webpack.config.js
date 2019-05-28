@@ -3,7 +3,7 @@ const path = require('path');
 
 module.exports = {
     entry: {
-        main: ['core-js', './src/index.tsx']
+        main: ['./src/index.tsx']
     },
     output: {
         publicPath: "/",
